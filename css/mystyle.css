@@ -69,30 +69,12 @@ a:visited {
 	background: white;
 }
 
-	.content:hover {
-		-moz-box-shadow: 0  0 2em #ccc;
-		-webkit-box-shadow: 0 0 2em #ccc;
-		box-shadow: 0 0 2em #ccc;
-		border-radius: 1em;
-		opacity: 1;
-		color: #820C2A;
-	}
-
 .bs-docs-sidebar {
 	width: 20%;
 	margin-left: 2%;
 	background: white;
 	opacity: 0.7;
 	border-radius: 1em;
-}
-
-	
-	.bs-docs-sidebar:hover {
-		-moz-box-shadow: 0  0 2em #ccc;
-		-webkit-box-shadow: 0 0 2em #ccc;
-		box-shadow: 0 0 2em #ccc;
-		border-radius: 1em;
-		opacity: 1;
 }
 
 .nav > li > a {
